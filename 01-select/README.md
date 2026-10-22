@@ -5,4 +5,4 @@ LeetCode SQL SELECT practice solutions.
 
 1. [176 - Second Highest Salary](176%20Second%20Highest%20Salary.sql)
 
-2. [177 - Nth Highest Salary](177%20Nth%20Salary.sql)
+2. [177 - Nth Highest Salary](177%20Nth%20Higest%20Salary.sql)
